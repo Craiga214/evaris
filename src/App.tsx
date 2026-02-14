@@ -12,7 +12,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<CharacterSheet />} />
+          <Route path="/evaris/" element={<CharacterSheet />} />
           <Route path="/evaris/character-sheet" element={<CharacterSheet />} />
           <Route path="/evaris/spell-book" element={<SpellBook />} />
           <Route path="/evaris/inventory" element={<Inventory />} />
