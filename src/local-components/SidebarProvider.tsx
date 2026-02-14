@@ -3,8 +3,6 @@ import "./SidebarProvider.css";
 import {
   ClipboardIcon,
   HammerIcon,
-  PanelLeftClose,
-  PanelLeftOpen,
   SettingsIcon,
   ShellIcon,
   Table2Icon,
