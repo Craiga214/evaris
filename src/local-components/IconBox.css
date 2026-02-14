@@ -1,0 +1,30 @@
+.icon-box {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+}
+
+.box {
+    grid-area: 1 / 1;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+    margin: 0;
+    padding: 0;
+}
+
+.box h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 120px;
+    height: 120px;
+    font-size: 24px;
+}
